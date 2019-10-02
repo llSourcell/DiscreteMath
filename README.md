@@ -7,7 +7,7 @@
 * Class polices: [POLICY.md](POLICY.md)
 
 ### Course Objectives ###
-This course aims to equip beginner level Computer Science students with fundamental mathematic principles in Computer Science. It aims to articulate students in how to read, write, and discuss scientific facts, how to count or enumerate things, and how to reason scientific facts with discrete structures such as sets, relations, permutations, graphs, trees. Students are expected to understand how the fundamental concepts are applied to solve computing problems in real world.
+This course aims to equip beginner level Computer Science students with fundamental mathematical principles in Computer Science. It aims to articulate students in how to read, write, and discuss scientific facts, how to count or enumerate things, and how to reason scientific facts with discrete structures such as sets, relations, permutations, graphs, trees. Students are expected to understand how the fundamental concepts are applied to solve computing problems in real world.
 
 ### Learning Materials ###
 #### Textbook ####
